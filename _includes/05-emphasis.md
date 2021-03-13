@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am learning to create web apps in *R Studio* with **Shiny** and **Flexdashboard**
